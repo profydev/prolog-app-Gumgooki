@@ -8,6 +8,6 @@
     "types": ["cypress", "node"],
     "isolatedModules": false
   },
-  "include": ["**/*.ts"],
+  "include": ["**/*.ts", "e2e/navigation.cy.tsx", "e2e/navigation.cy.tsx", "**/*.tsx"],
   "exclude": ["node_modules"]
 }
